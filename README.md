@@ -68,7 +68,7 @@ Add screenshots or a demo GIF here once deployed
 
 🌐 Live Demo
 
-👉 https://your-portfolio-link.com
+👉 https://portfolio-omega-ten-gcw3xlli7x.vercel.app/
 
 📌 Features in Detail
 🎯 GitHub Integration
@@ -107,9 +107,8 @@ Automatically fetches and displays the latest 3 repositories with:
 Arham Hussain
 
 GitHub: https://github.com/arham61
-LinkedIn: your-linkedin
-Portfolio: https://your-portfolio-link.com
-
+LinkedIn: https://www.linkedin.com/in/arham-hussain-5b4a92296
+Portfolio: https://portfolio-omega-ten-gcw3xlli7x.vercel.app/
 📄 License
 
 This project is open source and available under the MIT License.
