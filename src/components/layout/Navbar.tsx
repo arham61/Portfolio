@@ -96,7 +96,7 @@ export default function Navbar() {
                 <GithubIcon />
               </motion.a>
               <motion.a
-                href="https://www.linkedin.com/in/arham-hussain-5b4a92296"
+                href={`https://www.linkedin.com/in/${process.env.NEXT_PUBLIC_LINKEDIN_USERNAME}`}
                 target="_blank"
                 rel="noreferrer"
                 className="text-white/60 hover:text-white transition-colors p-1.5 rounded-lg hover:bg-white/10"
